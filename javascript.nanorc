@@ -1,0 +1,9 @@
+## Here is an example for Python.
+##
+syntax "javascript" "\.js$"
+color brightred "function "
+color magenta "for "
+color magenta "if"
+color magenta "else"
+color brightred "//.*$"
+color red "return "
