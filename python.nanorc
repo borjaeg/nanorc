@@ -15,4 +15,5 @@ color magenta " in "
 color brightred "#.*$"
 color green " and[.]+is not "
 color red "return "
+
 color brightred "class "
